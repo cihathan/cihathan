@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cihattoparlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cihattoparlak" height="30" width="40" /></a>
+<a href="https://twitter.com/thefallofhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thefallofhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cihat-han-toparlak-0b4a71219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihat-han-toparlak-0b4a71219/" height="30" width="40" /></a>
 <a href="https://fb.com/cihttr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cihttr" height="30" width="40" /></a>
 <a href="https://instagram.com/hanofrivia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanofrivia" height="30" width="40" /></a>
