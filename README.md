@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thefallofhan" target="blank"><img src="https://img.shields.io/twitter/follow/thefallofhan?logo=twitter&style=for-the-badge" alt="thefallofhan" /></a> </p>
 
-- 🌱 I’m currently learning **Java, C#, Spring, .Net, React, Javascript.**
+- 🌱 I’m currently learning **C#, Spring, .Net, React, Javascript.**
 
 - 📫 How to reach me **cihathantoparlak42@gmail.com**
 
